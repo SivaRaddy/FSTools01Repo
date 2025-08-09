@@ -1,8 +1,12 @@
 package com.nit.mavenDemoProj_01;
 
 public class Arthmatic {
-	public int sum(int x,int y) {
+	//executes for sum operations and changed as double type
+	public double sum(double x,double y) {
 		return x+y;
 	}
-
+	//executes for subtraction operation
+public double sub(double x, double y) {
+	return x-y;
+}
 }
