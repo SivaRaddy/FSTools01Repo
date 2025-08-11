@@ -1,0 +1,39 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Build output directories
+bin/
+target/
+build/
+
+# Maven output
+*.log
+*.tmp
+
+# Gradle output
+.gradle/
+build/
+
+# Other IDE files
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java-specific
+*.class
+
+# Eclipse working sets
+.metadata/
+
+# IntelliJ IDEA (if used in parallel)
+.idea/
+*.iml
+
+# Optional: exclude test reports or local dev data
+test-output/
+*.log
